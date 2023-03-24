@@ -1,0 +1,24 @@
+footer {
+    background-color: #222;
+    padding: 25px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+footer span  {
+    text-align: center;
+    font-size: 1em;
+    margin-bottom: 2.5em;
+    position: absolute;
+}
+
+footer nav a i{
+    margin-right: 1.32em;
+    font-size: 1.5em;
+    align-items: center;
+    justify-content: center;
+    margin-top: 1.5em;
+    margin-left: 1.2em;
+    text-align: center;}
+
